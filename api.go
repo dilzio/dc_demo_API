@@ -76,7 +76,7 @@ func handleKafkaMessage(w http.ResponseWriter, r *http.Request) {
 
 	// Respond with the partition and offset of the sent message
 	log.Printf("Message sent to partition %d, offset %d\n", partition, offset)
-	log.Printf("My new demo log")
+	log.Printf("My new very cool demo log")
 }
 
 func handleWebPage(w http.ResponseWriter, r *http.Request) {
