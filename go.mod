@@ -4,6 +4,7 @@ go 1.22.0
 
 require github.com/IBM/sarama v1.43.3
 
+
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/eapache/go-resiliency v1.7.0 // indirect
