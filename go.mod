@@ -2,7 +2,7 @@ module dilzio.com/api
 
 go 1.22.0
 
-require github.com/IBM/sarama v1.43.3
+require github.com/IBM/sarama v1.17.0
 
 
 require (
