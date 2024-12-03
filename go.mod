@@ -2,7 +2,7 @@ module dilzio.com/api
 
 go 1.22.0
 
-require github.com/IBM/sarama v1.18.0
+require github.com/IBM/sarama v1.43.3
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
